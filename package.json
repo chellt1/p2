@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "papaparse": "^5.4.1"
+  }
+}
